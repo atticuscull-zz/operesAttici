@@ -1,0 +1,44 @@
+p {
+  color: green;
+}
+
+#left {
+  background-color: aquamarine;
+  width: 50%;
+  float: left;
+  position: absolute;
+  top: 0px;
+  height: 680px;
+}
+
+#right {
+  background-color: burlywood;
+  width: 50%;
+  float: left;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  height: 680px;
+}
+
+.section_top {
+  text-align: center;
+}
+
+.description {
+  text-align: justify;
+  padding: 10px;
+}
+
+.mathitem {
+  padding: 10px;
+}
+
+.csitem {
+  padding: 10px;
+}
+
+.list {
+  overflow-y: scroll;
+  height: 500px;
+}
